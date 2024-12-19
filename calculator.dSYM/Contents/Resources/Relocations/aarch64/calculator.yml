@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/aaronbarcos/proyectos/personal/c-calculator/calculator'
+relocations:     []
+...
